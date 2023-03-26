@@ -34,3 +34,5 @@ function populateTextarea(){
         textarea.value = savedData.message;
     }
 }
+
+///Було дуже складно
